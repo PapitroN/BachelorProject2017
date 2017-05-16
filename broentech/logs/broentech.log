@@ -1,0 +1,708 @@
+24-03-2017 18:47:32 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:47:37 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:47:40 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x76360a70>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:47:40 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot8
+24-03-2017 18:47:40 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:47:42 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:47:47 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:47:51 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x76367e10>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:47:51 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot7
+24-03-2017 18:47:51 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:47:52 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:47:57 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:48:02 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:48:02 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a2b130>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:48:02 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot6
+24-03-2017 18:48:02 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:48:07 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:48:12 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:48:13 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a239d0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:48:13 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot5
+24-03-2017 18:48:13 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:48:17 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:48:22 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:48:24 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a2bef0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:48:24 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot4
+24-03-2017 18:48:24 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:48:27 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:48:32 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:48:36 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x76367db0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:48:36 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot3
+24-03-2017 18:48:36 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:48:37 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:48:42 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:48:47 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x763602b0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:48:47 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot2
+24-03-2017 18:48:47 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:48:47 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:48:52 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:48:57 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:48:58 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7635ec90>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:48:58 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot1
+24-03-2017 18:48:58 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:49:02 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:49:07 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:49:08 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7635e8d0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=10)'))
+24-03-2017 18:49:08 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata
+24-03-2017 18:49:12 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:49:17 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:49:22 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:49:27 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:49:32 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:49:37 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:49:38 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:49:42 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:49:47 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:49:49 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a23d10>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:49:49 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot9
+24-03-2017 18:49:49 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:49:52 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:49:57 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:50:00 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a3f3d0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:50:00 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot8
+24-03-2017 18:50:00 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:50:02 urllib3.connectionpool INFO       GTW_Jsonhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:50:11 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7635efb0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:50:11 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot7
+24-03-2017 18:50:11 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:50:12 root       WARNING    GTW_Jsonhandler      httpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a23670>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=10)'))
+24-03-2017 18:50:12 root       WARNING    GTW_Jsonhandler      datahandler(): Unable to send data. Storing it in local file
+24-03-2017 18:50:22 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a232d0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:50:22 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot6
+24-03-2017 18:50:22 root       INFO       GTW_Jsonhandler      storejson(): Successfully stored JSON formatted data in a EXISTING file called: /usr/local/broentech/src/jsondata
+24-03-2017 18:50:22 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:50:27 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:50:32 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:50:33 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a320b0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:50:33 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot5
+24-03-2017 18:50:33 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:50:37 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:50:42 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:50:44 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a3aeb0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:50:44 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot4
+24-03-2017 18:50:45 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:50:47 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:50:52 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:50:56 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x76367d70>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:50:56 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot3
+24-03-2017 18:50:56 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:50:58 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:51:03 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:51:07 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a13930>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:51:07 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot2
+24-03-2017 18:51:07 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:51:08 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:51:13 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:51:18 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:51:18 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7635ed90>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:51:18 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot1
+24-03-2017 18:51:18 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:51:23 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:51:28 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:51:28 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a237b0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=10)'))
+24-03-2017 18:51:28 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata
+24-03-2017 18:51:33 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:51:38 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:51:43 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:51:48 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:51:53 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:51:58 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:51:58 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:52:03 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:52:08 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:52:09 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a23090>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:52:09 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot9
+24-03-2017 18:52:09 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:52:13 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:52:18 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:52:20 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7635e5d0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:52:20 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot8
+24-03-2017 18:52:20 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:52:23 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:52:28 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:52:31 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a29fb0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:52:31 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot7
+24-03-2017 18:52:31 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:52:33 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:52:38 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:52:42 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x76367e10>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:52:42 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot6
+24-03-2017 18:52:42 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:52:43 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:52:48 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:52:53 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:52:53 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a3a230>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:52:53 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot5
+24-03-2017 18:52:53 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:52:58 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:53:03 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:53:04 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a23710>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:53:04 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot4
+24-03-2017 18:53:04 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:53:08 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:53:13 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:53:16 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a23170>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:53:16 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot3
+24-03-2017 18:53:16 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:53:18 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:53:23 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:53:27 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a12290>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:53:27 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot2
+24-03-2017 18:53:27 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:53:28 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:53:33 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:53:38 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x76367c50>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:53:38 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot1
+24-03-2017 18:53:38 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:53:39 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:53:44 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:53:48 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x76360e50>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=10)'))
+24-03-2017 18:53:48 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata
+24-03-2017 18:53:49 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:53:54 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:53:59 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:54:04 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:54:09 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:54:14 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:54:18 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:54:19 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:54:24 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:54:29 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:54:29 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7635efb0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:54:29 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot9
+24-03-2017 18:54:29 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:54:34 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:54:39 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:54:40 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a23170>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:54:40 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot8
+24-03-2017 18:54:40 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:54:44 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:54:49 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:54:51 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a23490>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:54:51 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot7
+24-03-2017 18:54:51 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:54:54 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:54:59 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:55:02 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7635e590>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:55:02 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot6
+24-03-2017 18:55:02 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:55:04 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:55:09 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:55:13 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7635e370>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:55:13 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot5
+24-03-2017 18:55:13 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:55:14 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:55:19 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:55:24 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:55:25 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x76367490>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:55:25 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot4
+24-03-2017 18:55:25 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:55:29 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:55:34 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:55:36 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a3a530>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:55:36 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot3
+24-03-2017 18:55:36 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:55:39 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:55:44 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:55:47 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a232f0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:55:47 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot2
+24-03-2017 18:55:47 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:55:49 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:55:54 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:55:59 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a12eb0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:55:59 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot1
+24-03-2017 18:55:59 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:55:59 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:56:04 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:56:09 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a3f930>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=10)'))
+24-03-2017 18:56:09 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata
+24-03-2017 18:56:09 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:56:14 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:56:19 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:56:24 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:56:29 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:56:34 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:56:39 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:56:39 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:56:44 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:56:49 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:56:50 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x76367e90>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:56:50 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot9
+24-03-2017 18:56:50 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:56:54 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:56:59 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:57:02 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x76360430>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:57:02 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot8
+24-03-2017 18:57:02 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:57:04 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:57:09 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:57:13 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a23ab0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:57:13 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot7
+24-03-2017 18:57:13 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:57:14 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:57:19 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:57:24 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a23cb0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:57:24 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot6
+24-03-2017 18:57:24 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:57:24 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:57:29 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:57:34 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:57:35 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7635e8d0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:57:35 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot5
+24-03-2017 18:57:35 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:57:39 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:57:44 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:57:46 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a320f0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:57:46 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot4
+24-03-2017 18:57:46 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:57:49 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:57:54 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:57:57 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7635ed90>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:57:57 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot3
+24-03-2017 18:57:57 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:57:59 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:58:04 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:58:08 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a23a30>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:58:08 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot2
+24-03-2017 18:58:08 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:58:09 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:58:14 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:58:19 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:58:19 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a23610>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:58:19 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot1
+24-03-2017 18:58:19 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:58:24 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:58:29 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:58:30 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x76276910>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=10)'))
+24-03-2017 18:58:30 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata
+24-03-2017 18:58:34 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:58:40 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:58:45 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:58:50 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:58:55 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:59:00 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:59:00 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:59:05 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:59:10 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:59:11 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x763675d0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:59:11 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot9
+24-03-2017 18:59:11 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:59:15 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:59:20 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:59:22 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a2bef0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:59:22 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot8
+24-03-2017 18:59:22 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:59:25 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:59:30 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:59:33 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x76367590>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:59:33 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot7
+24-03-2017 18:59:33 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:59:35 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:59:40 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:59:44 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x76360a70>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:59:44 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot6
+24-03-2017 18:59:44 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 18:59:45 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:59:50 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:59:55 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 18:59:55 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a23c30>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 18:59:55 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot5
+24-03-2017 18:59:55 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:00:00 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:00:05 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:00:06 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a23350>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:00:06 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot4
+24-03-2017 19:00:06 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:00:10 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:00:15 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:00:18 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7635e2b0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:00:18 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot3
+24-03-2017 19:00:18 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:00:20 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:00:25 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:00:29 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a3ffd0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:00:29 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot2
+24-03-2017 19:00:29 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:00:30 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:00:35 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:00:40 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:00:40 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7635ec90>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:00:40 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot1
+24-03-2017 19:00:40 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:00:45 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:00:50 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:00:50 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7635e430>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=10)'))
+24-03-2017 19:00:50 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata
+24-03-2017 19:00:55 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:01:00 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:01:05 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:01:10 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:01:15 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:01:20 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:01:20 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:01:25 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:01:30 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:01:31 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a23310>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:01:31 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot9
+24-03-2017 19:01:32 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:01:35 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:01:40 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:01:43 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x76276910>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:01:43 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot8
+24-03-2017 19:01:43 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:01:45 urllib3.connectionpool INFO       GTW_Jsonhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:01:54 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x76367e50>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:01:54 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot7
+24-03-2017 19:01:54 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:01:55 root       WARNING    GTW_Jsonhandler      httpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x763675b0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=10)'))
+24-03-2017 19:01:55 root       WARNING    GTW_Jsonhandler      datahandler(): Unable to send data. Storing it in local file
+24-03-2017 19:02:05 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a32ff0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:02:05 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot6
+24-03-2017 19:02:05 root       INFO       GTW_Jsonhandler      storejson(): Successfully stored JSON formatted data in a EXISTING file called: /usr/local/broentech/src/jsondata
+24-03-2017 19:02:05 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:02:10 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:02:15 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:02:16 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a328f0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:02:16 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot5
+24-03-2017 19:02:16 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:02:20 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:02:25 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:02:27 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a32350>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:02:27 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot4
+24-03-2017 19:02:27 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:02:30 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:02:35 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:02:38 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a237f0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:02:38 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot3
+24-03-2017 19:02:38 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:02:40 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:02:45 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:02:49 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a23310>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:02:49 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot2
+24-03-2017 19:02:49 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:02:50 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:02:55 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:03:00 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:03:00 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a3a890>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:03:00 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot1
+24-03-2017 19:03:00 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:03:05 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:03:10 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:03:10 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a32830>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=10)'))
+24-03-2017 19:03:10 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata
+24-03-2017 19:03:15 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:03:20 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:03:25 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:03:30 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:03:35 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:03:40 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:03:40 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:03:45 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:03:50 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:03:52 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a328f0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:03:52 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot9
+24-03-2017 19:03:52 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:03:55 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:04:00 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:04:03 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a32ed0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:04:03 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot8
+24-03-2017 19:04:03 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:04:05 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:04:10 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:04:14 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a2bfb0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:04:14 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot7
+24-03-2017 19:04:14 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:04:15 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:04:20 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:04:25 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a23c30>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:04:25 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot6
+24-03-2017 19:04:25 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:04:25 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:04:30 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:04:35 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:04:36 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a2bfb0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:04:36 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot5
+24-03-2017 19:04:36 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:04:40 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:04:45 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:04:47 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x76275870>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:04:47 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot4
+24-03-2017 19:04:47 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:04:50 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:04:55 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:04:58 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a32d50>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:04:58 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot3
+24-03-2017 19:04:58 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:05:00 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:05:05 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:05:10 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a32610>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:05:10 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot2
+24-03-2017 19:05:10 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:05:10 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:05:15 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:05:20 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:05:21 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a32070>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:05:21 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot1
+24-03-2017 19:05:21 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:05:25 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:05:30 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:05:31 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a238b0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=10)'))
+24-03-2017 19:05:31 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata
+24-03-2017 19:05:35 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:05:40 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:05:45 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:05:50 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:05:55 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:06:01 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:06:01 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:06:06 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:06:11 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:06:12 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a12bf0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:06:12 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot9
+24-03-2017 19:06:12 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:06:16 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:06:21 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:06:23 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a32510>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:06:23 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot8
+24-03-2017 19:06:23 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:06:26 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:06:31 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:06:34 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a32910>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:06:34 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot7
+24-03-2017 19:06:34 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:06:36 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:06:41 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:06:45 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a328b0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:06:45 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot6
+24-03-2017 19:06:45 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:06:46 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:06:51 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:06:56 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:06:56 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a23fb0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:06:56 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot5
+24-03-2017 19:06:56 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:07:01 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:07:06 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:07:08 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x76367df0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:07:08 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot4
+24-03-2017 19:07:08 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:07:11 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:07:16 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:07:19 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7635e870>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:07:19 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot3
+24-03-2017 19:07:19 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:07:21 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:07:26 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:07:30 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x76367d70>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:07:30 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot2
+24-03-2017 19:07:30 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:07:31 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:07:36 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:07:41 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:07:41 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a231f0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:07:41 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot1
+24-03-2017 19:07:41 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:07:46 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:07:51 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:07:51 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x76275870>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=10)'))
+24-03-2017 19:07:51 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata
+24-03-2017 19:07:56 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:08:01 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:08:06 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:08:11 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:08:16 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:08:21 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:08:21 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:08:26 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:08:31 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:08:33 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a329f0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:08:33 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot9
+24-03-2017 19:08:33 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:08:36 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:08:41 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:08:44 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a32250>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:08:44 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot8
+24-03-2017 19:08:44 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:08:46 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:08:51 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:08:55 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a32350>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:08:55 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot7
+24-03-2017 19:08:55 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:08:56 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:09:01 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:09:06 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:09:06 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a320f0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:09:06 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot6
+24-03-2017 19:09:06 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:09:11 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:09:16 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:09:17 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a326d0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:09:17 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot5
+24-03-2017 19:09:17 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:09:21 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:09:26 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:09:29 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a328b0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:09:29 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot4
+24-03-2017 19:09:29 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:09:31 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:09:36 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:09:40 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a23470>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:09:40 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot3
+24-03-2017 19:09:40 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:09:41 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:09:46 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:09:51 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a23e70>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:09:51 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot2
+24-03-2017 19:09:51 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:09:51 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:09:56 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:10:01 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:10:02 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x76367670>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:10:02 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot1
+24-03-2017 19:10:02 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:10:06 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:10:11 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:10:12 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x76367210>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=10)'))
+24-03-2017 19:10:12 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata
+24-03-2017 19:10:16 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:10:21 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:10:26 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:10:31 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:10:36 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:10:41 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:10:42 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:10:46 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:10:51 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:10:53 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a23890>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:10:53 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot9
+24-03-2017 19:10:53 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:10:56 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:11:01 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:11:05 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a3a890>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:11:05 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot8
+24-03-2017 19:11:05 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:11:06 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:11:11 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:11:16 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a32bd0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:11:16 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot7
+24-03-2017 19:11:16 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:11:16 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:11:21 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:11:26 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:11:27 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a32730>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:11:27 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot6
+24-03-2017 19:11:27 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:11:31 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:11:36 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:11:38 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x76255230>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:11:38 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot5
+24-03-2017 19:11:38 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:11:41 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:11:46 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:11:49 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x76255230>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:11:49 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot4
+24-03-2017 19:11:49 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:11:51 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:11:57 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:12:00 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a325d0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:12:00 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot3
+24-03-2017 19:12:00 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:12:02 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:12:07 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:12:11 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a32bd0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:12:11 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot2
+24-03-2017 19:12:11 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:12:12 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:12:17 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:12:22 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:12:22 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a23d10>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:12:22 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot1
+24-03-2017 19:12:22 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:12:27 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:12:32 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:12:32 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a23b50>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=10)'))
+24-03-2017 19:12:32 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata
+24-03-2017 19:12:37 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:12:42 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:12:47 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:12:52 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:12:57 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:13:02 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:13:03 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:13:07 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:13:12 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:13:14 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7635e5b0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:13:14 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot9
+24-03-2017 19:13:14 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:13:17 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:13:22 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:13:25 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a3f310>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:13:25 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot8
+24-03-2017 19:13:25 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:13:27 urllib3.connectionpool INFO       GTW_Jsonhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:13:36 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7635ee70>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:13:36 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot7
+24-03-2017 19:13:36 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:13:37 root       WARNING    GTW_Jsonhandler      httpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a3f310>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=10)'))
+24-03-2017 19:13:37 root       WARNING    GTW_Jsonhandler      datahandler(): Unable to send data. Storing it in local file
+24-03-2017 19:13:47 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a3fa50>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:13:47 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot6
+24-03-2017 19:13:47 root       INFO       GTW_Jsonhandler      storejson(): Successfully stored JSON formatted data in a EXISTING file called: /usr/local/broentech/src/jsondata
+24-03-2017 19:13:47 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:13:52 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:13:57 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:13:58 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a112f0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:13:58 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot5
+24-03-2017 19:13:58 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:14:02 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:14:07 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:14:09 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a3f7b0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:14:09 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot4
+24-03-2017 19:14:09 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:14:12 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:14:17 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:14:21 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a32090>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:14:21 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot3
+24-03-2017 19:14:21 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:14:22 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:14:27 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:14:32 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a32a10>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:14:32 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot2
+24-03-2017 19:14:32 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:14:35 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:14:40 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:14:43 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a32790>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:14:43 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot1
+24-03-2017 19:14:43 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:14:45 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:14:50 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:14:53 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a237f0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=10)'))
+24-03-2017 19:14:53 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata
+24-03-2017 19:14:55 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:15:00 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:15:05 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:15:10 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:15:15 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:15:20 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:15:23 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:15:25 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:15:30 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:15:34 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a23c10>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:15:34 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot9
+24-03-2017 19:15:34 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:15:35 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:15:40 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:15:45 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:15:45 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x76276870>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:15:45 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot8
+24-03-2017 19:15:45 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:15:50 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:15:55 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:15:56 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a23d10>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:15:56 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot7
+24-03-2017 19:15:56 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
+24-03-2017 19:16:00 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:16:05 root       INFO       GTW_Jsonhandler      datahandler(): Data file NOT found in :/usr/local/broentech/src/rawdata.brn. Trying again in: 5 seconds
+24-03-2017 19:16:08 root       WARNING    GTW_Sendhandler      simplehttpsend(): File Send FailedHTTPSConnectionPool(host='dev-qt.talaiot.io', port=443): Max retries exceeded with url: /datalanding/v1 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x75a32cf0>, 'Connection to dev-qt.talaiot.io timed out. (connect timeout=11)'))
+24-03-2017 19:16:08 root       INFO       GTW_Sendhandler      send_storedjason(): JSON_FILE send FAILED!/usr/local/broentech/src/jsondata.rot6
+24-03-2017 19:16:08 urllib3.connectionpool INFO       GTW_Sendhandler      Starting new HTTPS connection (1): dev-qt.talaiot.io
